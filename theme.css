@@ -25,6 +25,7 @@ html, body{
     font-size: 6em;
     font-weight: normal;
     text-shadow: 0 0 10px #000;
+    margin: 0;
 }
 .heading-subtext{
     color: #fff;

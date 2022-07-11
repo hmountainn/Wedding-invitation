@@ -63,11 +63,34 @@ html, body{
     max-width: 600px;
     padding: 1em 2.4em;
 }
-.sub-heading{
-    font-family: 'Caveat', cursive;
-    font-size: 3em;
-    margin-top: 2em;
-}
+
+    .sub-heading{
+        font-family: 'Caveat', cursive;
+        font-size: 3em;
+        margin-top: 2em;
+    }
+
+    .img-man-box{
+        height: 25%;
+        width: 40%;
+        
+    }
+
+        .img-man{
+            height: 100%;
+            width: 100%;
+        }
+
+    .img-girl-box{
+        height: 25%;
+        width: 40%;
+    }
+
+        .img-girl{
+            height: 100%;
+            width: 100%;
+        }
+
 .details{
     margin: 0 auto 8em;
 }
